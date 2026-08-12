@@ -122,7 +122,3 @@ biotech-animated-landing-page/
 ```
 
 ---
-
-## 🛡️ License
-
-Created for **Aetheris Dynamics** / Capitova Ventures. All rights reserved.
